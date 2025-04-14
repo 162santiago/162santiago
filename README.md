@@ -1,4 +1,4 @@
-<h4 align="left">Hello, I'm Santiago, a lover of web development and browser games, I really like the world of javascript and its friends.👨‍💻🌐</h2>
+<h4 align="left">Profesional IT con conocimientos en sistemas, redes, seguridad y desarrollo.👨‍💻🌐</h2>
 
 
 ###
